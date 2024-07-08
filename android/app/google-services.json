@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "444799902097",
+    "project_id": "travels-7d2ec",
+    "storage_bucket": "travels-7d2ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444799902097:android:b768c090966200f8adba30",
+        "android_client_info": {
+          "package_name": "com.example.com.dars_52_home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwg89V_2RuM4u6PQberl_XDkDXsI-Ttvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444799902097:android:8ab231957add2c4cadba30",
+        "android_client_info": {
+          "package_name": "com.example.dars_52_home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwg89V_2RuM4u6PQberl_XDkDXsI-Ttvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
